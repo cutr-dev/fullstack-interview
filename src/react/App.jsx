@@ -1,5 +1,5 @@
 import React from "react";
-import "./App.css";
+import "../App.css";
 
 export default function App() {
   return (
@@ -8,7 +8,7 @@ export default function App() {
         <h1>Cutr</h1>
       </header>
       <main>
-        <p>Your code here!</p>
+        <p>Your React code here!</p>
       </main>
     </div>
   );

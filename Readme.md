@@ -16,6 +16,7 @@ Please have this running locally before the interview begins. Feel free to poke 
 
 ## Starting Point
 
-- `src/client/App.jsx` - Empty React component
+- `index.html` - Basic HTML file, make sure to comment out the script tags for React or Vue based off your preference
+- `src/react/App.jsx` - Empty React component
+- `src/vue/App.vue` - Empty Vue component
 - `src/server/main.ts` - Express server with no routes
-

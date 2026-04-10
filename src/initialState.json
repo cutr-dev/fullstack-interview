@@ -1,20 +1,24 @@
 [
   {
+    "id": 1,
     "label": "Labour",
     "value": 45,
     "quantity": 1
   },
   {
+    "id": 2,
     "label": "Materials",
     "value": 30,
     "quantity": 3
   },
   {
+    "id": 3,
     "label": "Painting",
     "value": 25,
     "quantity": 1
   },
   {
+    "id": 4,
     "label": "Sanding",
     "value": 0.35,
     "quantity": 123
